@@ -22,11 +22,11 @@
       }
 ##
   #### Trabalhando com elementos web
-
+##
   #### Xpath dinâmico
-
+##
   #### Implicit Wait e Explict Wait
-
+##
   #### Advanced
       {
          //div[@class='uitk-date-picker-month'][position()=1]//button[@data-day='22']
@@ -36,13 +36,14 @@
          Auto Complete
          Window size
       }
-
+##
   #### Switch to 
     {
         switch to window
         switch to frame
         switch to alert
     }
-
+##
   #### Working with action class
     {Assunto sendo aprendido no momento ...}
+##

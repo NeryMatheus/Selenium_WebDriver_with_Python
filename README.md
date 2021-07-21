@@ -36,3 +36,13 @@
          Auto Complete
          Window size
       }
+
+  #### Switch to 
+    {
+        switch to window
+        switch to frame
+        switch to alert
+    }
+
+  #### Working with action class
+    {Assunto sendo aprendido no momento ...}

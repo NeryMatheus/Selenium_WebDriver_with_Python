@@ -45,5 +45,10 @@
     }
 ##
   #### Working with action class
-    {Assunto sendo aprendido no momento ...}
+    {
+        Ambos os casos que será executado necessita-se da biblioteca ActionChains
+        Mouse hover actions
+        Drag and drop element on a web page
+        Slider
+    }
 ##

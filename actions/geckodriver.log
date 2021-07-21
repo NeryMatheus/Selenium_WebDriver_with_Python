@@ -1,0 +1,90 @@
+1626890230368	geckodriver	INFO	Listening on 127.0.0.1:64085
+1626890233441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilePShRpP"
+1626890234546	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilePShRpP\\search.json.mozlz4", (void 0)))
+1626890239407	Marionette	INFO	Listening on port 55732
+1626890239851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60076, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60076, line 33: unreachable code after return statement
+Marionette threw an error: TypeError: this.currentSession is null
+GeckoDriver.prototype.getBrowsingContext@chrome://marionette/content/driver.js:292:5
+GeckoDriver.prototype.getActor/<@chrome://marionette/content/driver.js:264:10
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1626890255486	Marionette	INFO	Stopped listening on port 55732
+1626890875081	geckodriver	INFO	Listening on 127.0.0.1:61495
+1626890878084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileKw5gVa"
+1626890879047	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileKw5gVa\\search.json.mozlz4", (void 0)))
+1626890884042	Marionette	INFO	Listening on port 62717
+1626890884446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60076, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60076, line 33: unreachable code after return statement
+1626890932047	Marionette	INFO	Stopped listening on port 62717
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626890934108	geckodriver	INFO	Listening on 127.0.0.1:53443
+1626890936988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileDnuIyq"
+1626890937927	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileDnuIyq\\search.json.mozlz4", (void 0)))
+1626890942897	Marionette	INFO	Listening on port 62795
+1626890943343	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60076, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60076, line 33: unreachable code after return statement
+1626890964223	Marionette	INFO	Stopped listening on port 62795
+1626891056907	geckodriver	INFO	Listening on 127.0.0.1:57849
+1626891059905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileRI2JWa"
+1626891060792	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileRI2JWa\\search.json.mozlz4", (void 0)))
+1626891065438	Marionette	INFO	Listening on port 61451
+1626891065789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60076, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60076, line 33: unreachable code after return statement
+1626891083267	Marionette	INFO	Stopped listening on port 61451
+1626891120348	geckodriver	INFO	Listening on 127.0.0.1:54878
+1626891123342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilegldcNR"
+1626891124189	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilegldcNR\\search.json.mozlz4", (void 0)))
+1626891128798	Marionette	INFO	Listening on port 65231
+1626891129204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60076, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60076, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60076, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60076, line 33: unreachable code after return statement
+1626891146189	Marionette	INFO	Stopped listening on port 65231
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626891891361	geckodriver	INFO	Listening on 127.0.0.1:63570
+1626891894282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileox2HvA"
+1626891895185	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileox2HvA\\search.json.mozlz4", (void 0)))
+1626891900412	Marionette	INFO	Listening on port 62300
+1626891900639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626891919584	Marionette	INFO	Stopped listening on port 62300
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626891930868	geckodriver	INFO	Listening on 127.0.0.1:54943
+1626891933845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileuHEAG5"
+1626891934699	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileuHEAG5\\search.json.mozlz4", (void 0)))
+1626891939841	Marionette	INFO	Listening on port 60724
+1626891940221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626891950337	Marionette	INFO	Stopped listening on port 60724
+1626892136173	geckodriver	INFO	Listening on 127.0.0.1:55214
+1626892139093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile6CtXEY"
+1626892140049	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile6CtXEY\\search.json.mozlz4", (void 0)))
+1626892145022	Marionette	INFO	Listening on port 63714
+1626892145487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626892153365	Marionette	INFO	Stopped listening on port 63714
+1626892813817	geckodriver	INFO	Listening on 127.0.0.1:61177
+1626892816817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileRBOnka"
+1626892818016	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileRBOnka\\search.json.mozlz4", (void 0)))
+1626892823756	Marionette	INFO	Listening on port 61973
+1626892824057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626892854093	Marionette	INFO	Stopped listening on port 61973

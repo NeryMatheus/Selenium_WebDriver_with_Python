@@ -1,0 +1,865 @@
+1626099395635	geckodriver	INFO	Listening on 127.0.0.1:61840
+1626099398649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileG9eQqu"
+1626099400135	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileG9eQqu\\search.json.mozlz4", (void 0)))
+1626099405717	Marionette	INFO	Listening on port 63120
+1626099406145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60073, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60073, line 33: unreachable code after return statement
+1626099418564	Marionette	INFO	Stopped listening on port 63120
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626101400575	geckodriver	INFO	Listening on 127.0.0.1:62624
+1626101403567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileHyK4Lp"
+1626101404760	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileHyK4Lp\\search.json.mozlz4", (void 0)))
+1626101410194	Marionette	INFO	Listening on port 58244
+1626101410552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60073, line 33: unreachable code after return statement
+1626101418487	Marionette	INFO	Stopped listening on port 58244
+1626101429509	geckodriver	INFO	Listening on 127.0.0.1:62300
+1626101432486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilevHUeU6"
+1626101433361	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilevHUeU6\\search.json.mozlz4", (void 0)))
+1626101438234	Marionette	INFO	Listening on port 56384
+1626101438336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626101479580	Marionette	INFO	Stopped listening on port 56384
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626101484271	geckodriver	INFO	Listening on 127.0.0.1:51368
+1626101487264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilews5GAa"
+1626101488135	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilews5GAa\\search.json.mozlz4", (void 0)))
+1626101493183	Marionette	INFO	Listening on port 49336
+1626101493616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626101512301	Marionette	INFO	Stopped listening on port 49336
+1626102045090	geckodriver	INFO	Listening on 127.0.0.1:51550
+1626102047991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile1JPp1a"
+1626102048949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile1JPp1a\\search.json.mozlz4", (void 0)))
+1626102054087	Marionette	INFO	Listening on port 62276
+1626102054380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626102093370	Marionette	INFO	Stopped listening on port 62276
+1626102674765	geckodriver	INFO	Listening on 127.0.0.1:57456
+1626102677747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileLgqplN"
+1626102678747	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileLgqplN\\search.json.mozlz4", (void 0)))
+1626102684180	Marionette	INFO	Listening on port 60527
+1626102684251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626102733505	Marionette	INFO	Stopped listening on port 60527
+1626102735478	geckodriver	INFO	Listening on 127.0.0.1:52365
+1626102738445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilev2CBjj"
+1626102739865	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilev2CBjj\\search.json.mozlz4", (void 0)))
+1626102751204	Marionette	INFO	Listening on port 51984
+1626102751807	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626103155021	Marionette	INFO	Stopped listening on port 51984
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileRw8e97\\search.json.mozlz4", (void 0)))
+1626103140750	Marionette	INFO	Listening on port 56214
+1626103140995	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626103170431	Marionette	INFO	Stopped listening on port 56214
+1626103293660	geckodriver	INFO	Listening on 127.0.0.1:57663
+1626103296672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileM1zrcL"
+1626103297703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileM1zrcL\\search.json.mozlz4", (void 0)))
+1626103302445	Marionette	INFO	Listening on port 55779
+1626103302544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,na1626103557191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileHWzJdT"
+1626103558145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileHWzJdT\\search.json.mozlz4", (void 0)))
+1626103563113	Marionette	INFO	Listening on port 55843
+1626103563574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626103748674	Marionette	INFO	Stopped listening on port 55843
+1626103750756	geckodriver	INFO	Listening on 127.0.0.1:51219
+1626103753766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilemXY3Ur"
+1626103754839	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilemXY3Ur\\search.json.mozlz4", (void 0)))
+1626103759690	Marionette	INFO	Listening on port 50112
+1626103760139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626103809878	Marionette	INFO	Stopped listening on port 50112
+1626103897371	geckodriver	INFO	Listening on 127.0.0.1:50393
+1626103900366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileIHEyeg"
+1626103901492	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileIHEyeg\\search.json.mozlz4", (void 0)))
+1626103907449	Marionette	INFO	Listening on port 52882
+1626103907658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626103952551	Marionette	INFO	Stopped listening on port 52882
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626103954960	geckodriver	INFO	Listening on 127.0.0.1:56656
+1626103957969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilespjfhc"
+1626103958927	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilespjfhc\\search.json.mozlz4", (void 0)))
+1626103964158	Marionette	INFO	Listening on port 61262
+1626103964346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626103991193	Marionette	INFO	Stopped listening on port 61262
+1626104098341	geckodriver	INFO	Listening on 127.0.0.1:60077
+1626104101338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileCdZLMH"
+1626104102310	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileCdZLMH\\search.json.mozlz4", (void 0)))
+1626104107114	Marionette	INFO	Listening on port 64202
+1626104107238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626104143060	Marionette	INFO	Stopped listening on port 64202
+1626104248325	geckodriver	INFO	Listening on 127.0.0.1:51664
+1626104251346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile8nGkKk"
+1626104252491	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile8nGkKk\\search.json.mozlz4", (void 0)))
+1626104257487	Marionette	INFO	Listening on port 53103
+1626104257726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+1626105317478	Marionette	INFO	Stopped listening on port 53103
+1626105320531	geckodriver	INFO	Listening on 127.0.0.1:55743
+1626105323572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilelyPjs7"
+1626105324587	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilelyPjs7\\search.json.mozlz4", (void 0)))
+1626105329504	Marionette	INFO	Listening on port 55380
+1626105329949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626105594180	Marionette	INFO	Stopped listening on port 55380
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626105596385	geckodriver	INFO	Listening on 127.0.0.1:53606
+1626105599359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilecaS9Jx"
+1626105600546	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilecaS9Jx\\search.json.mozlz4", (void 0)))
+1626105605431	Marionette	INFO	Listening on port 64902
+1626105605697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1626105739594	Marionette	INFO	Stopped listening on port 64901626105742426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilexFDgqR"
+1626105743677	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilexFDgqR\\search.json.mozlz4", (void 0)))
+1626105748518	Marionette	INFO	Listening on port 56778
+1626105748776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626105857074	Marionette	INFO	Stopped listening on port 56778
+1626105857525	geckodriver	INFO	Listening on 127.0.0.1:57797
+1626105860542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileFZ5wPo"
+1626105861491	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileFZ5wPo\\search.json.mozlz4", (void 0)))
+1626105866283	Marionette	INFO	Listening on port 63393
+1626105866422	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626106105237	Marionette	INFO	Stopped listening on port 63393
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626106105885	geckodriver	INFO	Listening on 127.0.0.1:58168
+1626106108905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile1FwXWT"
+1626106109944	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile1FwXWT\\search.json.mozlz4", (void 0)))
+1626106114659	Marionette	INFO	Listening on port 59255
+1626106114765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1626107017286	Marionette	INFO	Stopped listening on port 59255
+1626107017873	geckodriver	INFO	Listening on 127.0.0.1:49576
+1626107020933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileY4ZSYp"
+1626107021963	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileY4ZSYp\\search.json.mozlz4", (void 0)))
+1626107027224	Marionette	INFO	Listening on port 57054
+1626107027317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: https://vap.expedia.com/vacservice/public/code/script?version=2, line 28: Error: Rejected in VirtualAgentControl::initialize() catch block with: Request failed with status code 400
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626107088860	Marionette	INFO	Stopped listening on port 57054
+1626107089433	geckodriver	INFO	Listening on 127.0.0.1:60259
+1626107092412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileupLOQr"
+1626107093446	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileupLOQr\\search.json.mozlz4", (void 0)))
+1626107099746	Marionette	INFO	Listening on port 62548
+1626107099985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626107113012	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626107287922	Marionette	INFO	Stopped listening on port 62548
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626107288569	geckodriver	INFO	Listening on 127.0.0.1:61851
+1626107291569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileQxZiqB"
+1626107292733	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileQxZiqB\\search.json.mozlz4", (void 0)))
+1626107297980	Marionette	INFO	Listening on port 60685
+1626107298037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626107481722	Marionette	INFO	Stopped listening on port 60685
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626107482144	geckodriver	INFO	Listening on 127.0.0.1:62513
+1626107484999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileDIzLJS"
+1626107486088	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileDIzLJS\\search.json.mozlz4", (void 0)))
+1626107492282	Marionette	INFO	Listening on port 55744
+1626107492768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626107703737	Marionette	INFO	Stopped listening on port 55744
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626107708510	geckodriver	INFO	Listening on 127.0.0.1:61549
+1626107711520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilezwEXzB"
+1626107712490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilezwEXzB\\search.json.mozlz4", (void 0)))
+1626107717160	Marionette	INFO	Listening on port 55437
+1626107717395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626107930690	Marionette	INFO	Stopped listening on port 55437
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626107931197	geckodriver	INFO	Listening on 127.0.0.1:56787
+1626107934197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile8oXYqC"
+1626107935158	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile8oXYqC\\search.json.mozlz4", (void 0)))
+1626107940157	Marionette	INFO	Listening on port 64228
+1626107940557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390113,name=PContent::Msg_AccumulateChildHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390118,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1626108029819	Marionette	INFO	Stopped listening on port 64228
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1626108074847	geckodriver	INFO	Listening on 127.0.0.1:60108
+1626108077873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile2RCTED"
+1626108078850	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile2RCTED\\search.json.mozlz4", (void 0)))
+1626108083697	Marionette	INFO	Listening on port 60881
+1626108083764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1626108179332	Marionette	INFO	Stopped listening on port 60881
+1626108234011	geckodriver	INFO	Listening on 127.0.0.1:64404
+1626108236991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileCpwYMR"
+1626108238022	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileCpwYMR\\search.json.mozlz4", (void 0)))
+1626108243226	Marionette	INFO	Listening on port 51039
+1626108243357	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626108263476	Marionette	INFO	Stopped listening on port 51039
+1626108585473	geckodriver	INFO	Listening on 127.0.0.1:55809
+1626108588473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile1jFyfq"
+1626108589437	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile1jFyfq\\search.json.mozlz4", (void 0)))
+1626108594163	Marionette	INFO	Listening on port 62809
+1626108594330	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626108670288	Marionette	INFO	Stopped listening on port 62809
+1626108755242	geckodriver	INFO	Listening on 127.0.0.1:51276
+1626108758282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileT0REmu"
+1626108759199	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileT0REmu\\search.json.mozlz4", (void 0)))
+1626108764052	Marionette	INFO	Listening on port 55259
+1626108764166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+[Child 3764, IPC I/O Child] WARNING: pipe error: 232: file /1626108852431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilelxkIJo"
+1626108853385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilelxkIJo\\search.json.mozlz4", (void 0)))
+1626108858025	Marionette	INFO	Listening on port 60986
+1626108858296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626108899102	Marionette	INFO	Stopped listening on port 60986
+1626108899741	geckodriver	INFO	Listening on 127.0.0.1:51249
+1626108902646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileTEQFWR"
+1626108903586	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileTEQFWR\\search.json.mozlz4", (void 0)))
+1626108908306	Marionette	INFO	Listening on port 62279
+1626108908515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1626109499040	Marionette	INFO	Stopped listening on port 62279
+ile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilec6IWHG"
+1626109376108	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilec6IWHG\\search.json.mozlz4", (void 0)))
+1626109382066	Marionette	INFO	Listening on port 53736
+1626109382452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626109422355	Marionette	INFO	Stopped listening on port 53736
+1626109497921	geckodriver	INFO	Listening on 127.0.0.1:55210
+1626109500664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileGUklTZ"
+1626109503365	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileGUklTZ\\search.json.mozlz4", (void 0)))
+1626109513233	Marionette	INFO	Listening on port 55220
+1626109513459	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag is undefined
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag is undefined
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 1544, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 1544, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1626109602101	Marionette	INFO	Stopped listening on port 55220
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626109603836	geckodriver	INFO	Listening on 127.0.0.1:55808
+1626109606836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileh4h3Wp"
+1626109607815	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileh4h3Wp\\search.json.mozlz4", (void 0)))
+1626109612588	Marionette	INFO	Listening on port 50479
+1626109612737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626109649167	Marionette	INFO	Stopped listening on port 50479
+1626109700009	geckodriver	INFO	Listening on 127.0.0.1:54195
+1626109702994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileAapWHl"
+1626109703955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileAapWHl\\search.json.mozlz4", (void 0)))
+1626109708779	Marionette	INFO	Listening on port 54204
+1626109708879	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+1626109735673	Marionette	INFO	Stopped listening on port 54204
+JavaScript error: , line 0: uncaught exception: undefined
+1626112202344	geckodriver	INFO	Listening on 127.0.0.1:63074
+1626112205328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilexRS5lo"
+1626112206364	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilexRS5lo\\search.json.mozlz4", (void 0)))
+1626112211185	Marionette	INFO	Listening on port 54587
+1626112211691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+JavaScript error: , line 0: TypeError: NetworkError when att1626112406043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileaWiwms"
+1626112407270	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileaWiwms\\search.json.mozlz4", (void 0)))
+1626112412488	Marionette	INFO	Listening on port 62961
+1626112412548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626112457822	Marionette	INFO	Stopped listening on port 62961
+
+###!!! [Child][RunMessage] Error: Channel closing: too lat1626112461166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilerYuzBQ"
+1626112462086	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilerYuzBQ\\search.json.mozlz4", (void 0)))
+1626112466646	Marionette	INFO	Listening on port 58366
+1626112467027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626112508345	Marionette	INFO	Stopped listening on port 58366
+1626112560099	geckodriver	INFO	Listening on 127.0.0.1:63573
+1626112563061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileK4N61T"
+1626112564007	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileK4N61T\\search.json.mozlz4", (void 0)))
+1626112568705	Marionette	INFO	Listening on port 49519
+1626112568951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626112603220	Marionette	INFO	Stopped listening on port 49519
+1626112649579	geckodriver	INFO	Listening on 127.0.0.1:62299
+1626112652610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileOjDNWL"
+1626112653516	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileOjDNWL\\search.json.mozlz4", (void 0)))
+1626112658360	Marionette	INFO	Listening on port 59960
+1626112658470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626112711090	Marionette	INFO	Stopped listening on port 59960
+1626112809842	geckodriver	INFO	Listening on 127.0.0.1:54094
+1626112812807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileAn5kGT"
+1626112814236	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileAn5kGT\\search.json.mozlz4", (void 0)))
+1626112819099	Marionette	INFO	Listening on port 60334
+1626112819171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/9b10f2b88332dc35c93c2cbfb937a213f8b6a16b/meso-displayad.js, line 19: TypeError: window.googletag.pubads is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626112861341	Marionette	INFO	Stopped listening on port 60334
+1626116858036	geckodriver	INFO	Listening on 127.0.0.1:59276
+1626116860987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileLbN9zr"
+1626116862479	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileLbN9zr\\search.json.mozlz4", (void 0)))
+1626116869823	Marionette	INFO	Listening on port 50795
+1626116870031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626116945494	Marionette	INFO	Stopped listening on port 50795
+1626116947690	geckodriver	INFO	Listening on 127.0.0.1:52593
+1626116950590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileJOLg5o"
+1626116951548	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileJOLg5o\\search.json.mozlz4", (void 0)))
+1626116956497	Marionette	INFO	Listening on port 60589
+1626116956973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1626117081012	Marionette	INFO	Stopped listening on port 60589
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626117222031	geckodriver	INFO	Listening on 127.0.0.1:61417
+1626117225022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilenAgRBe"
+1626117226034	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilenAgRBe\\search.json.mozlz4", (void 0)))
+1626117230636	Marionette	INFO	Listening on port 57943
+1626117230875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626117312813	Marionette	INFO	Stopped listening on port 57943
+1626117421644	geckodriver	INFO	Listening on 127.0.0.1:58082
+1626117424544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilei3ADyX"
+1626117425477	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilei3ADyX\\search.json.mozlz4", (void 0)))
+1626117430323	Marionette	INFO	Listening on port 64470
+1626117430430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626117490516	Marionette	INFO	Stopped listening on port 64470
+1626117570910	geckodriver	INFO	Listening on 127.0.0.1:63059
+1626117573906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilegHFA2d"
+1626117574996	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilegHFA2d\\search.json.mozlz4", (void 0)))
+1626117579736	Marionette	INFO	Listening on port 57919
+1626117580274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+Marionette threw an error: TypeError: this.currentSession is null
+GeckoDriver.prototype.getBrowsingContext@chrome://marionette/content/driver.js:292:5
+GeckoDriver.prototype.getActor/<@chrome://marionette/content/driver.js:264:10
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1626117606038	Marionette	INFO	Stopped listening on port 57919
+1626117835935	geckodriver	INFO	Listening on 127.0.0.1:55654
+1626117838841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilel0IpZ7"
+1626117839759	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilel0IpZ7\\search.json.mozlz4", (void 0)))
+1626117844564	Marionette	INFO	Listening on port 49400
+1626117844733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: , line 0: uncaught exception: undefined
+1626117866324	Marionette	INFO	Stopped listening on port 49400
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626186480355	geckodriver	INFO	Listening on 127.0.0.1:54973
+1626186483403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilezOHNys"
+1626186484918	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilezOHNys\\search.json.mozlz4", (void 0)))
+1626186490704	Marionette	INFO	Listening on port 54981
+1626186490925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626186507118	Marionette	INFO	Stopped listening on port 54981
+1626186559426	geckodriver	INFO	Listening on 127.0.0.1:52232
+1626186562370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileFIhaWV"
+1626186563256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileFIhaWV\\search.json.mozlz4", (void 0)))
+1626186567847	Marionette	INFO	Listening on port 52240
+1626186568213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626186585361	Marionette	INFO	Stopped listening on port 52240
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626186613511	geckodriver	INFO	Listening on 127.0.0.1:52106
+1626186616528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileFX79aq"
+1626186617516	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileFX79aq\\search.json.mozlz4", (void 0)))
+1626186622303	Marionette	INFO	Listening on port 51930
+1626186622411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://c.travel-assets.com/blossom-flex-ui/pap.aaedba25b8ef0eb3f7f2.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 503
+JavaScript error: https://c.travel-assets.com/blossom-flex-ui/pap.aaedba25b8ef0eb3f7f2.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 503
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://c.travel-assets.com/blossom-flex-ui/pap.aaedba25b8ef0eb3f7f2.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 503
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1626186687960	Marionette	INFO	Stopped listening on port 51930
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626192529411	geckodriver	INFO	Listening on 127.0.0.1:55912
+1626192532444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilezXgaBJ"
+1626192533412	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilezXgaBJ\\search.json.mozlz4", (void 0)))
+1626192538016	Marionette	INFO	Listening on port 50437
+1626192538300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1626192634153	Marionette	INFO	Stopped listening on port 50437
+1626192744936	geckodriver	INFO	Listening on 127.0.0.1:52721
+1626192747861	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileLI8uje"
+1626192749085	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileLI8uje\\search.json.mozlz4", (void 0)))
+1626192753398	Marionette	INFO	Listening on port 62339
+1626192753537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: , line 0: uncaught exception: undefined
+1626192777092	Marionette	INFO	Stopped listening on port 62339
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626192806549	geckodriver	INFO	Listening on 127.0.0.1:57061
+1626192809510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileC6ig1K"
+1626192810487	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileC6ig1K\\search.json.mozlz4", (void 0)))
+1626192815068	Marionette	INFO	Listening on port 57069
+1626192815383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626192843596	Marionette	INFO	Stopped listening on port 57069
+1626192890967	geckodriver	INFO	Listening on 127.0.0.1:57215
+1626192893971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilehZo6nf"
+1626192896057	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilehZo6nf\\search.json.mozlz4", (void 0)))
+1626192903811	Marionette	INFO	Listening on port 57226
+1626192904322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1626194056413	Marionette	INFO	Stopped listening on port 57226
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileBXPfkQ\\search.json.mozlz4", (void 0)))
+1626192965843	Marionette	INFO	Listening on port 57402
+1626192966025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+1626192995785	Marionette	INFO	Stopped listening on port 57402
+1626195797298	geckodriver	INFO	Listening on 127.0.0.1:59935
+1626195800351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileYmI9aZ"
+1626195801281	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileYmI9aZ\\search.json.mozlz4", (void 0)))
+1626195805713	Marionette	INFO	Listening on port 59945
+1626195806219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/expedia/detector-dom.min.js, line 63: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: , line 0: uncaught exception: undefined
+1626195828587	Marionette	INFO	Stopped listening on port 59945
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+

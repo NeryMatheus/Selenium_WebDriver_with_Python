@@ -1,0 +1,431 @@
+1625755266902	geckodriver	INFO	Listening on 127.0.0.1:50602
+1625755269970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilePgQUGZ"
+1625755271435	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilePgQUGZ\\search.json.mozlz4", (void 0)))
+1625755277108	Marionette	INFO	Listening on port 53807
+1625755277456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625755290268	Marionette	INFO	Stopped listening on port 53807
+1625756190868	geckodriver	INFO	Listening on 127.0.0.1:62927
+1625756193940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilemtaUO4"
+1625756195049	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilemtaUO4\\search.json.mozlz4", (void 0)))
+1625756200198	Marionette	INFO	Listening on port 54055
+1625756200310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625756212912	Marionette	INFO	Stopped listening on port 54055
+1625756310340	geckodriver	INFO	Listening on 127.0.0.1:58954
+1625756313321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile7O4s1e"
+1625756314304	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile7O4s1e\\search.json.mozlz4", (void 0)))
+1625756320266	Marionette	INFO	Listening on port 52686
+1625756321060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625756334501	Marionette	INFO	Stopped listening on port 52686
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625758175542	geckodriver	INFO	Listening on 127.0.0.1:49613
+1625758178502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileeleLPZ"
+1625758179583	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileeleLPZ\\search.json.mozlz4", (void 0)))
+1625758184593	Marionette	INFO	Listening on port 59573
+1625758184888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625758200308	Marionette	INFO	Stopped listening on port 59573
+1625758459978	geckodriver	INFO	Listening on 127.0.0.1:62132
+1625758462998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileS0z9yX"
+1625758464169	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileS0z9yX\\search.json.mozlz4", (void 0)))
+1625758468828	Marionette	INFO	Listening on port 62916
+1625758468917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+Marionette threw an error: TypeError: this.currentSession is null
+GeckoDriver.prototype.getBrowsingContext@chrome://marionette/content/driver.js:292:5
+GeckoDriver.prototype.getActor/<@chrome://marionette/content/driver.js:264:10
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1625758481663	Marionette	INFO	Stopped listening on port 62916
+1625758519429	geckodriver	INFO	Listening on 127.0.0.1:64514
+1625758522475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileQFToK9"
+1625758523484	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileQFToK9\\search.json.mozlz4", (void 0)))
+1625758528346	Marionette	INFO	Listening on port 56483
+1625758528837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625759204020	Marionette	INFO	Stopped listening on port 56483
+ile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileVsgROp"
+1625759028758	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileVsgROp\\search.json.mozlz4", (void 0)))
+1625759033670	Marionette	INFO	Listening on port 55745
+1625759034095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625759054698	Marionette	INFO	Stopped listening on port 55745
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625759128560	geckodriver	INFO	Listening on 127.0.0.1:59702
+1625759131517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilezRLaMy"
+1625759132547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilezRLaMy\\search.json.mozlz4", (void 0)))
+1625759137443	Marionette	INFO	Listening on port 63142
+1625759137899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625759153593	Marionette	INFO	Stopped listening on port 63142
+1625761181718	geckodriver	INFO	Listening on 127.0.0.1:51556
+1625761184693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofiled78Hp4"
+1625761190105	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofiled78Hp4\\search.json.mozlz4", (void 0)))
+1625761196400	Marionette	INFO	Listening on port 55621
+1625761196909	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1625761247491	Marionette	INFO	Stopped listening on port 55621
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625761251351	geckodriver	INFO	Listening on 127.0.0.1:53783
+1625761254332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileuP3hAi"
+1625761255558	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileuP3hAi\\search.json.mozlz4", (void 0)))
+1625761261280	Marionette	INFO	Listening on port 50136
+1625761261378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+Marionette threw an error: TypeError: this.currentSession is null
+GeckoDriver.prototype.getBrowsingContext@chrome://marionette/content/driver.js:292:5
+GeckoDriver.prototype.getActor/<@chrome://marionette/content/driver.js:264:10
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1625761274869	Marionette	INFO	Stopped listening on port 50136
+1625765671539	geckodriver	INFO	Listening on 127.0.0.1:52809
+1625765674560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileysdn5p"
+1625765675648	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileysdn5p\\search.json.mozlz4", (void 0)))
+1625765680694	Marionette	INFO	Listening on port 65509
+1625765680959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/course/zenler_font_icon.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://d235vmrai5heq2.cloudfront.net/fonts/fontawesome-free-5.11.1/css/all.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/bundles/Zenler/css/Zenler_skeleton.css?v=V3.1.60071 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/bundles/Zenler/css/Zenler_blocks.css?v=V3.1.60071 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/community/icon.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/css/counteverest/counteverest.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/manage-elements.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/admin/lib/bootstrap-sweetalert/sweetalert.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://s3.amazonaws.com/contents.newzenler.com/3072/css/brand.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/css?family=Catamaran without a browsingContextID set
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 103: Error: Connection closed, pending request to server0.conn0.child4/domnode149, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+completePromise@resource://gre/modules/Promise-backend.js:741:12
+
+1625765827484	Marionette	INFO	Stopped listening on port 65509
+1625766207686	geckodriver	INFO	Listening on 127.0.0.1:56094
+1625766210616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileUYsZy7"
+1625766211698	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileUYsZy7\\search.json.mozlz4", (void 0)))
+1625766216754	Marionette	INFO	Listening on port 61614
+1625766217010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625766247118	Marionette	INFO	Stopped listening on port 61614
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625767080875	geckodriver	INFO	Listening on 127.0.0.1:59678
+1625767083818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileAi2Y1r"
+1625767084768	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileAi2Y1r\\search.json.mozlz4", (void 0)))
+1625767090311	Marionette	INFO	Listening on port 59782
+1625767090790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625767140069	Marionette	INFO	Stopped listening on port 59782
+1625767349034	geckodriver	INFO	Listening on 127.0.0.1:55239
+1625767351973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilelbI3dH"
+1625767352881	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilelbI3dH\\search.json.mozlz4", (void 0)))
+1625767358010	Marionette	INFO	Listening on port 53046
+1625767358358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/course/zenler_font_icon.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://d235vmrai5heq2.cloudfront.net/fonts/fontawesome-free-5.11.1/css/all.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/bundles/Zenler/css/Zenler_skeleton.css?v=V3.1.60071 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/bundles/Zenler/css/Zenler_blocks.css?v=V3.1.60071 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/community/icon.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/css/counteverest/counteverest.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/manage-elements.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/admin/lib/bootstrap-sweetalert/sweetalert.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://s3.amazonaws.com/contents.newzenler.com/3072/css/brand.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/css?family=Catamaran without a browsingContextID set
+1625767648707	Marionette	INFO	Stopped listening on port 53046
+1625767678091	geckodriver	INFO	Listening on 127.0.0.1:51697
+1625767681015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile6Wkvpb"
+1625767682048	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile6Wkvpb\\search.json.mozlz4", (void 0)))
+1625767687019	Marionette	INFO	Listening on port 56874
+1625767687448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625767704922	Marionette	INFO	Stopped listening on port 56874
+1625767770818	geckodriver	INFO	Listening on 127.0.0.1:49635
+1625767773736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileDEMBK8"
+1625767774730	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileDEMBK8\\search.json.mozlz4", (void 0)))
+1625767779548	Marionette	INFO	Listening on port 49644
+1625767779633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+Marionette threw an error: TypeError: this.currentSession is null
+GeckoDriver.prototype.getBrowsingContext@chrome://marionette/content/driver.js:292:5
+GeckoDriver.prototype.getActor/<@chrome://marionette/content/driver.js:264:10
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1625767796303	Marionette	INFO	Stopped listening on port 49644
+1625768005671	geckodriver	INFO	Listening on 127.0.0.1:64196
+1625768008710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile1IB8Qi"
+1625768009656	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile1IB8Qi\\search.json.mozlz4", (void 0)))
+1625768015238	Marionette	INFO	Listening on port 64204
+1625768015719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625768093423	Marionette	INFO	Stopped listening on port 64204
+5768093162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileveDwZk"
+1625768094613	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileveDwZk\\search.json.mozlz4", (void 0)))
+1625768099438	Marionette	INFO	Listening on port 56484
+1625768099531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625768199049	Marionette	INFO	Stopped listening on port 56484
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625768237363	geckodriver	INFO	Listening on 127.0.0.1:52957
+1625768240436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileS2QAE3"
+1625768241388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileS2QAE3\\search.json.mozlz4", (void 0)))
+1625768246149	Marionette	INFO	Listening on port 52149
+1625768246302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625768265117	Marionette	INFO	Stopped listening on port 52149
+1625768282484	geckodriver	INFO	Listening on 127.0.0.1:54522
+1625768285497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilekGpZZr"
+1625768288000	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilekGpZZr\\search.json.mozlz4", (void 0)))
+1625768299360	Marionette	INFO	Listening on port 50914
+1625768299613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625768344467	Marionette	INFO	Stopped listening on port 50914
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1625768369005	geckodriver	INFO	Listening on 127.0.0.1:54201
+1625768372053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileIgsVkk"
+1625768372986	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileIgsVkk\\search.json.mozlz4", (void 0)))
+1625768378095	Marionette	INFO	Listening on port 56918
+1625768378413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625768420530	Marionette	INFO	Stopped listening on port 56918
+1625768434534	geckodriver	INFO	Listening on 127.0.0.1:60119
+1625768437503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilel0ZZXD"
+1625768438432	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilel0ZZXD\\search.json.mozlz4", (void 0)))
+1625768443892	Marionette	INFO	Listening on port 64876
+1625768444009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625768469039	Marionette	INFO	Stopped listening on port 64876
+1625768600650	geckodriver	INFO	Listening on 127.0.0.1:54958
+1625768603694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile4Ubmzl"
+1625768604654	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofile4Ubmzl\\search.json.mozlz4", (void 0)))
+1625768609858	Marionette	INFO	Listening on port 53393
+1625768610065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+Marionette threw an error: TypeError: this.currentSession is null
+GeckoDriver.prototype.getBrowsingContext@chrome://marionette/content/driver.js:292:5
+GeckoDriver.prototype.getActor/<@chrome://marionette/content/driver.js:264:10
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1625768624569	Marionette	INFO	Stopped listening on port 53393
+1625768646545	geckodriver	INFO	Listening on 127.0.0.1:61415
+1625768649618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileT8o4qI"
+1625768650549	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileT8o4qI\\search.json.mozlz4", (void 0)))
+1625768655589	Marionette	INFO	Listening on port 57106
+1625768656011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+1625768671648	Marionette	INFO	Stopped listening on port 57106
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625768819204	geckodriver	INFO	Listening on 127.0.0.1:59850
+1625768822147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileGCsXID"
+1625768823095	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileGCsXID\\search.json.mozlz4", (void 0)))
+1625768827902	Marionette	INFO	Listening on port 57976
+1625768828050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625768843711	Marionette	INFO	Stopped listening on port 57976
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625768868295	geckodriver	INFO	Listening on 127.0.0.1:55702
+1625768871339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileX7yodx"
+1625768872252	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileX7yodx\\search.json.mozlz4", (void 0)))
+1625768877022	Marionette	INFO	Listening on port 59954
+1625768877220	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625768900523	Marionette	INFO	Stopped listening on port 59954
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625768956943	geckodriver	INFO	Listening on 127.0.0.1:57108
+1625768959986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileajhqvl"
+1625768960970	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileajhqvl\\search.json.mozlz4", (void 0)))
+1625768965772	Marionette	INFO	Listening on port 61127
+1625768965837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625768981654	Marionette	INFO	Stopped listening on port 61127
+1625769284263	geckodriver	INFO	Listening on 127.0.0.1:51351
+1625769287333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileCOM0y8"
+1625769288279	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileCOM0y8\\search.json.mozlz4", (void 0)))
+1625769293071	Marionette	INFO	Listening on port 64659
+1625769293206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+1625769309300	Marionette	INFO	Stopped listening on port 64659
+1625769328155	geckodriver	INFO	Listening on 127.0.0.1:52931
+1625769331190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileeJMTic"
+1625769332163	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileeJMTic\\search.json.mozlz4", (void 0)))
+1625769337058	Marionette	INFO	Listening on port 59041
+1625769337547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+1625769353582	Marionette	INFO	Stopped listening on port 59041
+1625769392345	geckodriver	INFO	Listening on 127.0.0.1:56591
+1625769395366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileUbLDff"
+1625769396337	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileUbLDff\\search.json.mozlz4", (void 0)))
+1625769401066	Marionette	INFO	Listening on port 59400
+1625769401231	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+1625769417573	Marionette	INFO	Stopped listening on port 59400
+1625769456644	geckodriver	INFO	Listening on 127.0.0.1:58607
+1625769459682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileid4bq4"
+1625769460603	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileid4bq4\\search.json.mozlz4", (void 0)))
+1625769465437	Marionette	INFO	Listening on port 61911
+1625769465584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+1625769480962	Marionette	INFO	Stopped listening on port 61911
+1625781685426	geckodriver	INFO	Listening on 127.0.0.1:61136
+1625781688443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileYPBCbz"
+1625781689429	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileYPBCbz\\search.json.mozlz4", (void 0)))
+1625781694468	Marionette	INFO	Listening on port 62336
+1625781694831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+Marionette threw an error: TypeError: this.currentSession is null
+GeckoDriver.prototype.getBrowsingContext@chrome://marionette/content/driver.js:292:5
+GeckoDriver.prototype.getActor/<@chrome://marionette/content/driver.js:264:10
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1625781711329	Marionette	INFO	Stopped listening on port 62336
+1625781866594	geckodriver	INFO	Listening on 127.0.0.1:64751
+1625781869653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileEhMfko"
+1625781870672	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileEhMfko\\search.json.mozlz4", (void 0)))
+1625781875545	Marionette	INFO	Listening on port 57512
+1625781876058	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.60071, line 33: unreachable code after return statement
+1625782155187	Marionette	INFO	Stopped listening on port 57512

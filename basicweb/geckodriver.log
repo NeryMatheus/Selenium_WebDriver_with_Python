@@ -1,0 +1,47 @@
+1624891680455	geckodriver	INFO	Listening on 127.0.0.1:51264
+1624891683465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileJdXVvt"
+1624891684670	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileJdXVvt\\search.json.mozlz4", (void 0)))
+1624891689852	Marionette	INFO	Listening on port 51272
+1624891689966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624891725281	Marionette	INFO	Stopped listening on port 51272
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624891731100	geckodriver	INFO	Listening on 127.0.0.1:62423
+1624891734145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilehVtdIM"
+1624891735025	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilehVtdIM\\search.json.mozlz4", (void 0)))
+1624891739816	Marionette	INFO	Listening on port 62431
+1624891740032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624892223178	Marionette	INFO	Stopped listening on port 62431
+4892003201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilelSsFLb"
+1624892004098	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilelSsFLb\\search.json.mozlz4", (void 0)))
+1624892009111	Marionette	INFO	Listening on port 50298
+1624892009602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Mathe\AppData\Local\Temp\rust_mozprofilelSsFLb\protections.sqlite
+1624892067534	Marionette	INFO	Stopped listening on port 50298
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624893113208	geckodriver	INFO	Listening on 127.0.0.1:65527
+1624893116215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileofpeTA"
+1624893117531	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofileofpeTA\\search.json.mozlz4", (void 0)))
+1624893122829	Marionette	INFO	Listening on port 49153
+1624893123171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624893135125	Marionette	INFO	Stopped listening on port 49153
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624896001091	geckodriver	INFO	Listening on 127.0.0.1:64776
+1624896004161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilexM1U28"
+1624896005572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mathe\\AppData\\Local\\Temp\\rust_mozprofilexM1U28\\search.json.mozlz4", (void 0)))
+1624896010656	Marionette	INFO	Listening on port 64784
+1624896011139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624896020954	Marionette	INFO	Stopped listening on port 64784
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

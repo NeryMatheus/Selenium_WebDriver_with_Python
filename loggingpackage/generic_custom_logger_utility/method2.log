@@ -1,0 +1,4 @@
+method2: 22/07/2021 01:13:30 PM INFO: info message
+method2: 22/07/2021 01:13:30 PM WARNING: warning message
+method2: 22/07/2021 01:13:30 PM ERROR: error message
+method2: 22/07/2021 01:13:30 PM CRITICAL: critical message

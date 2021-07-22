@@ -1,0 +1,5 @@
+LoggingDemo2: 22/07/2021 01:13:30 PM DEBUG: debug message
+LoggingDemo2: 22/07/2021 01:13:30 PM INFO: info message
+LoggingDemo2: 22/07/2021 01:13:30 PM WARNING: warning message
+LoggingDemo2: 22/07/2021 01:13:30 PM ERROR: error message
+LoggingDemo2: 22/07/2021 01:13:30 PM CRITICAL: critical message

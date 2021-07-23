@@ -58,5 +58,7 @@
     {
         Test Case
         Asert Method
+        Export PYTHONPATH: set PYTHONPATH=%PYTHONPATH%;%CD%
+        Test Suite
     }
 ##
